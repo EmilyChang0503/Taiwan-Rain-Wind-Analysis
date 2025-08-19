@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Homework/hw4/D3homework/CS_Static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final_project"
+	}
+}

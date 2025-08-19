@@ -1,0 +1,314 @@
+[
+    {
+        "sitename": "大城",
+        "sitecity": "彰化縣"
+    },
+    {
+        "sitename": "富貴角",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "麥寮",
+        "sitecity": "雲林縣"
+    },
+    {
+        "sitename": "關山",
+        "sitecity": "臺東縣"
+    },
+    {
+        "sitename": "馬公",
+        "sitecity": "澎湖縣"
+    },
+    {
+        "sitename": "金門",
+        "sitecity": "金門縣"
+    },
+    {
+        "sitename": "馬祖",
+        "sitecity": "連江縣"
+    },
+    {
+        "sitename": "埔里",
+        "sitecity": "南投縣"
+    },
+    {
+        "sitename": "復興",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "永和",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "竹山",
+        "sitecity": "南投縣"
+    },
+    {
+        "sitename": "中壢",
+        "sitecity": "桃園市"
+    },
+    {
+        "sitename": "三重",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "冬山",
+        "sitecity": "宜蘭縣"
+    },
+    {
+        "sitename": "宜蘭",
+        "sitecity": "宜蘭縣"
+    },
+    {
+        "sitename": "陽明",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "花蓮",
+        "sitecity": "花蓮縣"
+    },
+    {
+        "sitename": "臺東",
+        "sitecity": "臺東市"
+    },
+    {
+        "sitename": "恆春",
+        "sitecity": "屏東縣"
+    },
+    {
+        "sitename": "潮州",
+        "sitecity": "屏東縣"
+    },
+    {
+        "sitename": "屏東",
+        "sitecity": "屏東市"
+    },
+    {
+        "sitename": "小港",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "前鎮",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "前金",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "左營",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "楠梓",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "林園",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "大寮",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "鳳山",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "仁武",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "橋頭",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "美濃",
+        "sitecity": "高雄市"
+    },
+    {
+        "sitename": "臺南",
+        "sitecity": "臺南市"
+    },
+    {
+        "sitename": "安南",
+        "sitecity": "臺南市"
+    },
+    {
+        "sitename": "善化",
+        "sitecity": "臺南市"
+    },
+    {
+        "sitename": "新營",
+        "sitecity": "臺南市"
+    },
+    {
+        "sitename": "嘉義",
+        "sitecity": "嘉義市"
+    },
+    {
+        "sitename": "臺西",
+        "sitecity": "雲林縣"
+    },
+    {
+        "sitename": "朴子",
+        "sitecity": "嘉義縣"
+    },
+    {
+        "sitename": "新港",
+        "sitecity": "嘉義縣"
+    },
+    {
+        "sitename": "崙背",
+        "sitecity": "雲林縣"
+    },
+    {
+        "sitename": "斗六",
+        "sitecity": "雲林縣"
+    },
+    {
+        "sitename": "南投",
+        "sitecity": "南投市"
+    },
+    {
+        "sitename": "二林",
+        "sitecity": "彰化縣"
+    },
+    {
+        "sitename": "線西",
+        "sitecity": "彰化縣"
+    },
+    {
+        "sitename": "彰化",
+        "sitecity": "彰化縣"
+    },
+    {
+        "sitename": "西屯",
+        "sitecity": "臺中市"
+    },
+    {
+        "sitename": "忠明",
+        "sitecity": "臺中市"
+    },
+    {
+        "sitename": "大里",
+        "sitecity": "臺中市"
+    },
+    {
+        "sitename": "沙鹿",
+        "sitecity": "臺中市"
+    },
+    {
+        "sitename": "豐原",
+        "sitecity": "臺中市"
+    },
+    {
+        "sitename": "三義",
+        "sitecity": "苗栗縣"
+    },
+    {
+        "sitename": "苗栗",
+        "sitecity": "苗栗市"
+    },
+    {
+        "sitename": "頭份",
+        "sitecity": "苗栗縣"
+    },
+    {
+        "sitename": "新竹",
+        "sitecity": "新竹市"
+    },
+    {
+        "sitename": "竹東",
+        "sitecity": "新竹縣"
+    },
+    {
+        "sitename": "湖口",
+        "sitecity": "新竹縣"
+    },
+    {
+        "sitename": "龍潭",
+        "sitecity": "桃園市"
+    },
+    {
+        "sitename": "平鎮",
+        "sitecity": "桃園市"
+    },
+    {
+        "sitename": "觀音",
+        "sitecity": "桃園市"
+    },
+    {
+        "sitename": "大園",
+        "sitecity": "桃園市"
+    },
+    {
+        "sitename": "桃園",
+        "sitecity": "桃園市"
+    },
+    {
+        "sitename": "大同",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "松山",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "古亭",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "萬華",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "中山",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "士林",
+        "sitecity": "臺北市"
+    },
+    {
+        "sitename": "淡水",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "林口",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "菜寮",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "新莊",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "板橋",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "土城",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "新店",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "萬里",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "汐止",
+        "sitecity": "新北市"
+    },
+    {
+        "sitename": "基隆",
+        "sitecity": "基隆市"
+    }
+]
